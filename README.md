@@ -3,4 +3,5 @@ This repository contains materials to read, plot, and map Micro Pulse Lidar Netw
 
 | Lesson | Interactive Link |
 |:------:|:----------------:|
-|Test| https://colab.research.google.com/github/jrlewis-umbc/MPLNET/blob/python/lineplot.ipynb|
+|Test|[![Open In Colab](https://google.com)](https://google.com)|
+
