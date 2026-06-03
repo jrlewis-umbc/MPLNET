@@ -3,5 +3,6 @@ This repository contains materials to read, plot, and map Micro Pulse Lidar Netw
 
 | Lesson | Interactive Link |
 |:------:|:----------------:|
-|Test|[![Open In Colab](https://google.com)](https://google.com)|
+|Test|<a target="_blank" href="https://colab.research.google.com/github/jrlewis-umbc/MPLNET/blob/python/lineplot.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|
 
