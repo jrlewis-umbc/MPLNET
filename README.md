@@ -1,5 +1,5 @@
 # MPLNET
-This repository contains materials to read, plot, and map Micro Pulse Lidar Network (MPLNET) data. 
+This repository contains materials to read, plot, and map Micro Pulse Lidar Network (MPLNET) data using Python code. 
 
 | Topic | Interactive Link |
 |:------:|:----------------:|
