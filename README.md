@@ -1,5 +1,5 @@
 # MPLNET
-This repository contains materials to read, plot, and map Micro Pulse Lidar Network (MPLNET) data using Python code. These examples are for demonstration purposes only. It is the user's responsibility to ensure the code are correct for their use. Please contact Jasper Lewis (jrlewis@umbc.edu or jasper.r.lewis@nasa.gov) if you have questions or problems running any of the examples.   
+This repository contains materials to read, plot, and map Micro Pulse Lidar Network (MPLNET) data using Python code. These examples are for demonstration purposes only. It is the user's responsibility to ensure the codes are correct for their use. Please contact Jasper Lewis (jrlewis@umbc.edu or jasper.r.lewis@nasa.gov) if you have questions or problems running any of the examples.   
 
 | Topic | Interactive Link |
 |:------:|:----------------:|
